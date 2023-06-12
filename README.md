@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Armynerh
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning Backend Dev
+- 🌱 I’m currently learning HTML, CSS, ReactJS, Ruby on Rails.
 - 💞️ I’m looking to collaborate on Projects
 - 📫 How to reach me ...
 
