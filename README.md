@@ -29,7 +29,7 @@ I'm a passionate and motivated Full-Stack Software Developer with a focus on Rub
 
 ## Contact Me
 
-Let's connect and explore exciting opportunities together! You can reach me via email at [kenny](mailto:kennyhenshaw001@icloud.com)
+Let's connect and explore exciting opportunities together! You can reach me via email at [kennyhenshaw001@icloud.com](mailto:kennyhenshaw001@icloud.com)
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/kehinde-aminah-h/) to stay updated on my latest projects and achievements!
 
