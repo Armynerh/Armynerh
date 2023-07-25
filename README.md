@@ -1,8 +1,6 @@
-# [Kenny] - Full-Stack Software Developer
 
-## About Me
-
-Hello! I'm [Kenny], a passionate and motivated Full-Stack Software Developer with a focus on Ruby on Rails and React JS. I thrive on creating innovative and user-centric web applications that provide seamless experiences for users. My journey into the world of software development started with a deep curiosity for technology and a desire to solve real-world problems through code.
+# Hello! I'm Kenny
+I'm a passionate and motivated Full-Stack Software Developer with a focus on Ruby on Rails and React JS. I thrive on creating innovative and user-centric web applications that provide seamless experiences for users. My journey into the world of software development started with a deep curiosity for technology and a desire to solve real-world problems through code.
 
 ## Technical Skills
 
