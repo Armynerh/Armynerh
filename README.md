@@ -15,12 +15,12 @@ I'm a passionate and motivated Full-Stack Software Developer with a focus on Rub
 
 ## Projects
 
-1. **Project 1 - E-commerce Website**
+1. **Project 1 - Todo List App**
    - Description: Developed a Todo list App using Javascript(Webpack), allowing users to add tasks, edit tasks delete tasks, and clear completed tasks from their list.
    - Tech Stack: HTML, CSS Javascript (webpack)
    - GitHub: [Project 1 GitHub Repository](https://github.com/Armynerh/todo-list-project)
 
-2. **Project 2 - Task **
+2. **Project 2 - Awesome Books **
    - Description: Created a bookstore app to add, edit and delete books and display them on the UI.
    - Tech Stack: HTML, Javascript (ES6), CSS, Lumos(for date and time)
    - GitHub: [Project 2 GitHub Repository](https://github.com/Armynerh/awesome_books-es6/)
