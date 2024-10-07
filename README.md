@@ -4,14 +4,14 @@ I'm a passionate and motivated Full-Stack Software Developer with a focus on Rub
 
 ## Technical Skills
 
-- **Languages:** Ruby, JavaScript (ES6+)
+- **Languages:**Python Ruby, JavaScript
 - **Frontend:** React JS, HTML5, CSS3, Bootstrap
 - **Backend:** Ruby on Rails, Python (Flask)
 - **Database:** PostgreSQL, MySQL, MongoDB
 - **Version Control:** Git, GitHub
-- **Tools:** VS Code, Webpack, Babel
-- **Testing:**  Jest Pytest
-- **Deployment:** Heroku, Netlify, Github Pages
+- **Tools:** VS Code, Webpack, Babel Jenkins
+- **Testing:**  Jest Pytest 
+- **Deployment:** Heroku, Netlify, Github Pages Render
 
 ## Projects
 
